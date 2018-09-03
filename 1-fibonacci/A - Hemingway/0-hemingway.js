@@ -13,7 +13,9 @@ function fibonacci(size) {
 		second = next; 
 		result.push(next);
 	}
+	// console.log('This is the result : ' + result)
 
-	return result; 
-	
+	return result; 	
 }
+
+module.exports = fibonacci;

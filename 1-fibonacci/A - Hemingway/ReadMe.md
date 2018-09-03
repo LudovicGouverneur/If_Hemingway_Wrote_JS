@@ -23,25 +23,45 @@ Behaviour : returns the first n numbers of the Fibonacci sequence.
 
 ### Docs
 
-#### Function 
+_Function_ 
 
 `fibonacci(size)`
 
 [sources code](./0-hemingway.js)
 
-#### Aguments
+_Aguments_
 
 `[anything](anything) : The number of elements in the Fibonacci sequence we ask for.`
 
 Note : no casting
 
-_
+_Return_
+
+_Example_
+?
+
+
 ### Input Analysis
 
+| number: length | string: to_pad | Other
+|---|---|---|
+|Integer between 0 and 100|enter a string|an object|
+|Negative Integer|---|---|
+|Real positive number|---|---|
+|Real negative number|---|---|
+|Very Big Number|---|---|
 
 
+### Test-cases 
+    * Create a whole lot of test cases in ./test/test-cases.js.
+    
+    * Be sure to test your test cases using the Repl.it.
+
+    * The template indicates how you should structure your test cases.
 
 ## Trace Blocking
+
+
 
 ## Chunk Study
 
