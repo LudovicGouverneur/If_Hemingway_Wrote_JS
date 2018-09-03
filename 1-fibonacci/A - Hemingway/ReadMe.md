@@ -3,11 +3,13 @@
 
 ## Behaviour Study
 
->The objective of this step is to thoroughly understand the behavior of the studied function.
+### General
+
+>NDLR : The objective of this step is to thoroughly understand the behavior of the studied function.
 
 [See instruction]('./Behaviour)
 
->Behavior is defined by inputs/output pairs.
+> NDLR : Behavior is defined by inputs/output pairs.
 
 Behaviour : returns the first n numbers of the Fibonacci sequence.
 
@@ -20,6 +22,23 @@ Behaviour : returns the first n numbers of the Fibonacci sequence.
 >As we progress through the series, the ratio between successive numbers tends toward a constant (roughly 1.61803) known as the golden ratio. Some mathematically inclined ora arrange their branches or petals according to the golden ratio—though its prevalence in nature is sometimes overstated.
 
 ### Docs
+
+### Function 
+
+`fibonacci(size)`
+
+[sources code](./0-hemingway.js)
+
+#### Aguments
+
+[anything](anything) : The number of elements in the Fibonacci sequence we ask for.
+
+Note : no casting
+
+_
+### Input Analysis
+
+
 
 
 ## Trace Blocking
