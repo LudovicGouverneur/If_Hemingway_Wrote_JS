@@ -23,7 +23,7 @@ Behaviour : returns the first n numbers of the Fibonacci sequence.
 
 ### Docs
 
-### Function 
+#### Function 
 
 `fibonacci(size)`
 
@@ -31,7 +31,7 @@ Behaviour : returns the first n numbers of the Fibonacci sequence.
 
 #### Aguments
 
-[anything](anything) : The number of elements in the Fibonacci sequence we ask for.
+`[anything](anything) : The number of elements in the Fibonacci sequence we ask for.`
 
 Note : no casting
 
